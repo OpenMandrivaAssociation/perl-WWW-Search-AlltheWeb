@@ -11,7 +11,6 @@ Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/WWW//%{real_name}-%{versi
 BuildRequires:	perl-devel
 BuildRequires:	perl(WWW::Search)
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 AlltheWeb is a class specialization of WWW::Search. It handles
