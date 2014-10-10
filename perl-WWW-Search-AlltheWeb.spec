@@ -3,7 +3,7 @@
 Summary:	WWW::Search::AlltheWeb - class for searching AlltheWeb
 Name:		perl-%{real_name}
 Version:	1.5
-Release:	8
+Release:	9
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
